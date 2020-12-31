@@ -11,9 +11,9 @@ ORT_AC.PlayerProtection = true
 ORT_AC.AntiPedAttack = true 
 
 
-ORT_AC.LOG              = "https://discord.com/api/webhooks/786943095257563146/OS7qt1b4wSZyxiDiiypGN_Kxm9dE6XPrS4je6R1mIWHtDl9N5twHqpmuxPprKb_6XJS2"
+ORT_AC.LOG              = "webhook"
 
-ORT_AC.SteamApiKey = "B031AA9D50D81690377F88719F6E7C97"
+ORT_AC.SteamApiKey = "steam api ip ye uygun"
 
 ORT_AC.AntiCheatEngine = true 
 ORT_AC.AntiInjection = true 
